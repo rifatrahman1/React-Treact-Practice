@@ -1,6 +1,7 @@
 
 import './App.css'
 import Banner from './Components/Banner'
+import Checkour from './Components/Checkour'
 import Main from './Components/Main'
 import Navbar from './Components/Navbar'
 
@@ -12,6 +13,7 @@ function App() {
         <Navbar></Navbar>
         <Banner></Banner>
         <Main></Main>
+        <Checkour></Checkour>
       </div>
     </div>
   )
