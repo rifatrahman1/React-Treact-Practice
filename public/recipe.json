@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Veg Mixer",
+      "description": "Tomato Salad & Carrot",
+      "price": 5.99,
+      "rating": 5.0,
+      "reviews": 87,
+      "image": "https://i.ibb.co.com/sHYnv4f/veg-mixer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Macaroni",
+      "description": "Cheese Pizza",
+      "price": 2.99,
+      "rating": 4.8,
+      "reviews": 32,
+      "image": "https://i.ibb.co.com/VLcp9VG/chees-pizza.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nelli",
+      "description": "Hamburger & Fries",
+      "price": 7.99,
+      "rating": 4.9,
+      "reviews": 89,
+      "image": "https://i.ibb.co.com/zhwRxJz/hamburger-7191898.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jalapeno Poppers",
+      "description": "Crispy Soyabeans",
+      "price": 8.99,
+      "rating": 4.6,
+      "reviews": 12,
+      "image": "https://i.ibb.co.com/VWm54Q5/crispy.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cajun Chicken",
+      "description": "Roasted Chicken & Egg",
+      "price": 7.99,
+      "rating": 4.2,
+      "reviews": 19,
+      "image": "https://i.ibb.co.com/0QxRDcK/roasted-chicken-3602956.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chillie Cake",
+      "description": "Deepfried Chicken",
+      "price": 2.99,
+      "rating": 5.0,
+      "reviews": 61,
+      "image": "https://i.ibb.co.com/5FKv8cb/cake-1284548.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Guacamole Mex",
+      "description": "Mexican Chilli",
+      "price": 3.99,
+      "rating": 4.2,
+      "reviews": 95,
+      "image": "https://i.ibb.co.com/pvV3xXc/guacamole.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Carnet Nachos",
+      "description": "Chilli Crispy Nachos",
+      "price": 3.99,
+      "rating": 3.9,
+      "reviews": 26,
+      "image": "https://i.ibb.co.com/jWFSL4K/nachos-2979802.jpg"
+    }
+  ]
+  

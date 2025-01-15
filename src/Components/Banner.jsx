@@ -5,9 +5,9 @@ const Banner = () => {
     return (
         <div className="flex items-center justify-between mt-24">
             <div>
-                <h1 className="text-5xl font-extrabold">Delicious & Affordable <br />
+                <h1 className="text-5xl font-extrabold text-[#243e63]">Delicious & Affordable <br />
                 <span className="australia text-[#6315ff] leading-snug px-4 rounded-t-3xl mt-14"> Meals Near You.</span></h1>
-                <p className="text-[#8d8988] font-semibold mt-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p className="text-[#8d8988] font-semibold mt-8 text-[18px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <div className="flex items-center gap-8 mt-8">
                     <button className="bg-[#6315ff] text-white px-8 py-3 rounded-lg text-[18px]">Order Now</button>
                     <button className="flex items-center gap-2 text-[18px]"><GoPlay className="text-5xl" />Meet The Chefs</button>
