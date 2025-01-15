@@ -8,6 +8,7 @@ import Main from './Components/Main'
 import Navbar from './Components/Navbar'
 // import Recipes from './Components/Recipes'
 import Services from './Components/Services'
+import Customers from './Components/Customers'
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
         {/* <Recipes></Recipes> */}
         <Services></Services>
         <Choose></Choose>
+        <Customers></Customers>
       </div>
     </div>
   )
