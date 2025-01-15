@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with rich meat sauce.",
+        "price": 12.99,
+        "rating": 4.5,
+        "reviews": 87,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/NCV2jtL/spaghetti.webp"
+    },
+    {
+        "id": 2,
+        "name": "Fruit Bowl",
+        "description": "Mixed Seasonal Fruits and vegitables fruits",
+        "price": 6.49,
+        "rating": 4.8,
+        "reviews": 102,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/1zpSfkR/fruit-bowl.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "Crisp lettuce with Caesar dressing and croutons.",
+        "price": 8.99,
+        "rating": 4.7,
+        "reviews": 120,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/rmNDx2J/caesar-salad.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Tikka",
+        "description": "Juicy, spiced chicken grilled to perfection.",
+        "price": 10.99,
+        "rating": 4.6,
+        "reviews": 95,
+        "category": "Appetizer",
+        "image": "https://i.ibb.co.com/zS4Cjv3/chicken-tikka.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vegetable Soup",
+        "description": "Hearty soup with fresh garden vegetables.",
+        "price": 7.49,
+        "rating": 4.4,
+        "reviews": 75,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/fnWpXqB/vegetable-soup.webp"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Cake",
+        "description": "Rich, moist chocolate cake with a ganache topping.",
+        "price": 9.99,
+        "rating": 4.9,
+        "reviews": 145,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/QXpykwm/chocolate-cake.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Grilled Salmon",
+        "description": "Perfectly grilled salmon with herbs and lemon.",
+        "price": 14.99,
+        "rating": 4.8,
+        "reviews": 132,
+        "category": "Main Course",
+        "image": "https://i.ibb.co.com/MZSvZdd/grilled-salmon.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mango Smoothie",
+        "description": "A refreshing mango-based smoothie cool drink water.",
+        "price": 5.99,
+        "rating": 4.7,
+        "reviews": 110,
+        "category": "Drink",
+        "image": "https://i.ibb.co.com/7C29ybq/mango-smoothie.webp"
+    }
+]

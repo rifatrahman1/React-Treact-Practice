@@ -1,5 +1,8 @@
 import PropTypes from 'prop-types';
 import Recipes from './Recipes'
+import Soups from './Soups';
+import Main_Recipe from './Main_Recipes';
+import Dessters from './Dessters';
 
 const Checkour = ({ activeIndex, toggleButton }) => {
     const buttons = ['Starters', 'Main', 'Soup', 'Desserts'];
@@ -8,11 +11,11 @@ const Checkour = ({ activeIndex, toggleButton }) => {
         if (activeIndex === 0) {
             return <Recipes></Recipes>;
         } else if (activeIndex === 1) {
-            return <Profile />;
+            return <Main_Recipe></Main_Recipe>;
         } else if (activeIndex === 2) {
-            return <Settings />;
+            return <Soups></Soups>;
         } else if (activeIndex === 3) {
-            return <About />;
+            return <Dessters></Dessters>;
         }
     };
 
@@ -58,18 +61,3 @@ Checkour.propTypes = {
 
 export default Checkour;
 
-function Home() {
-    return <h1>Welcome to the Home Page</h1>;
-}
-
-function Profile() {
-    return <h1>Welcome to the Profile Page</h1>;
-}
-
-function Settings() {
-    return <h1>Welcome to the Settings Page</h1>;
-}
-
-function About() {
-    return <h1>Welcome to the About Page</h1>;
-}

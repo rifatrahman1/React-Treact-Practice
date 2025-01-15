@@ -2,7 +2,7 @@
 
 const Navbar = () => {
     return (
-            <div className="flex items-center justify-between mt-">
+            <div className="flex items-center justify-between mt-8">
             {/* #6315ff */}
                 <div className="flex items-center gap-4">
                     <img className="w-12 h-12" src="../../assets/logo.2c489fc453a1783cbadacf914efa3df6.svg" alt="" />

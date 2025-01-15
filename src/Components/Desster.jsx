@@ -2,7 +2,7 @@
 import PropTypes from 'prop-types';
 import { IoMdStar } from "react-icons/io";
 
-const Soup = ({ recipe }) => {
+const Desster = ({ recipe }) => {
     const { image, name, description, price, rating, reviews } = recipe;
     return (
         <div>
@@ -23,7 +23,7 @@ const Soup = ({ recipe }) => {
     );
 };
 
-Soup.propTypes = {
+Desster.propTypes = {
     recipe: PropTypes.object.isRequired
 }
-export default Soup;
+export default Desster;

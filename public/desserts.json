@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Cake",
+        "description": "Rich and moist chocolate layered cake topped with ganache.",
+        "price": 4.99,
+        "rating": 4.9,
+        "reviews": 250,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/pQT5wr9/chocolate-cake.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vanilla Ice Cream",
+        "description": "Creamy vanilla-flavored ice cream with a smooth texture.",
+        "price": 3.49,
+        "rating": 4.8,
+        "reviews": 180,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/VjpCFJ0/vanilla-ice-cream.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple Pie",
+        "description": "Classic apple pie with a buttery crust and cinnamon-spiced filling.",
+        "price": 5.49,
+        "rating": 4.7,
+        "reviews": 140,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/tPTp8Sy/apple-pie.webp"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Cheesecake",
+        "description": "Creamy cheesecake topped with fresh strawberries and syrup.",
+        "price": 6.99,
+        "rating": 4.8,
+        "reviews": 220,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/Rjvg21c/strawberry-cheesecake.webp"
+    },
+    {
+        "id": 5,
+        "name": "Brownies",
+        "description": "Fudgy chocolate brownies with a hint of coffee flavor.",
+        "price": 2.99,
+        "rating": 4.6,
+        "reviews": 175,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/5kKrgxY/brownies.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tiramisu",
+        "description": "Italian dessert with coffee-soaked ladyfingers and mascarpone cream.",
+        "price": 7.49,
+        "rating": 4.9,
+        "reviews": 200,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/Vx2Ssg3/tiramisu.webp"
+    },
+    {
+        "id": 7,
+        "name": "Panna Cotta",
+        "description": "Silky Italian custard served with a berry compote.",
+        "price": 5.99,
+        "rating": 4.7,
+        "reviews": 145,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/sHqjDxr/panna-cotta.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mango Mousse",
+        "description": "Light and airy mousse made with ripe mangoes and cream.",
+        "price": 4.49,
+        "rating": 4.8,
+        "reviews": 160,
+        "category": "Dessert",
+        "image": "https://i.ibb.co.com/Q9SFy1z/mango-mousse.jpg"
+    }
+]

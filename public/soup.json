@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Noodle Soup",
+        "description": "Classic comfort soup with chicken, noodles, and vegetables.",
+        "price": 7.99,
+        "rating": 4.8,
+        "reviews": 150,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/QvPwMPP/chicken-noodle-soup.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tomato Basil Soup",
+        "description": "Smooth and creamy tomato soup with fresh basil.",
+        "price": 6.49,
+        "rating": 4.7,
+        "reviews": 120,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/C0DKLSW/tomato-basil-soup.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Miso Soup",
+        "description": "Japanese soup made with miso paste, tofu, and seaweed.",
+        "price": 5.99,
+        "rating": 4.6,
+        "reviews": 110,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/209Jqx8/miso-soup.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lentil Soup",
+        "description": "Hearty soup with lentils, carrots, and spices.",
+        "price": 6.99,
+        "rating": 4.7,
+        "reviews": 95,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/RYKVssh/lentil-soup.webp"
+    },
+    {
+        "id": 5,
+        "name": "French Onion Soup",
+        "description": "Rich onion soup topped with melted cheese and croutons.",
+        "price": 8.49,
+        "rating": 4.8,
+        "reviews": 130,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/D8rjZpw/french-onion-soup.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Clam Chowder",
+        "description": "Creamy New England-style soup with clams and potatoes.",
+        "price": 9.49,
+        "rating": 4.9,
+        "reviews": 145,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/5LS58Sd/clam-chowder.webp"
+    },
+    {
+        "id": 7,
+        "name": "Broccoli Cheddar Soup",
+        "description": "Cheesy soup with fresh broccoli and a creamy base.",
+        "price": 7.49,
+        "rating": 4.8,
+        "reviews": 112,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/zbtZt60/broccoli-cheddar-soup.webp"
+    },
+    {
+        "id": 8,
+        "name": "Hot and Sour Soup",
+        "description": "Spicy and tangy soup with mushrooms and tofu.",
+        "price": 6.99,
+        "rating": 4.7,
+        "reviews": 100,
+        "category": "Soup",
+        "image": "https://i.ibb.co.com/DgSWny4/hot-and-sour-soup.jpg"
+    }
+]
