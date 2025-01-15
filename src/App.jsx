@@ -9,6 +9,8 @@ import Navbar from './Components/Navbar'
 // import Recipes from './Components/Recipes'
 import Services from './Components/Services'
 import Customers from './Components/Customers'
+import Treact_App from './Components/Treact_App'
+import Footer from './Components/Footer'
 
 function App() {
 
@@ -29,6 +31,8 @@ function App() {
         <Choose></Choose>
         <Customers></Customers>
       </div>
+      <Treact_App></Treact_App>
+      <Footer></Footer>
     </div>
   )
 }
