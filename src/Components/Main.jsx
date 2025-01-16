@@ -2,7 +2,7 @@ import main_image from '../../assets/main.avif'
 
 const Main = () => {
     return (
-        <div className="flex items-center justify-between mt-48">
+        <div className="flex hidden items-center justify-between mt-48">
             <div>
                 <img className="rounded-[40px] w-[640px]" src={main_image} alt="" />
             </div>

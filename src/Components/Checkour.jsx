@@ -20,7 +20,7 @@ const Checkour = ({ activeIndex, toggleButton }) => {
     };
 
     return (
-        <div>
+        <div className='hidden'>
             <div className="flex items-center justify-between mt-56">
                 <h1 className="text-5xl font-extrabold">
                     Checkout our{' '}

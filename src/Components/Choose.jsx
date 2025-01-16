@@ -2,7 +2,7 @@ import choose from '../../assets/why-choose.avif'
 
 const Choose = () => {
     return (
-        <div className="flex inter items-center justify-between mt-48">
+        <div className="flex hidden inter items-center justify-between mt-48">
             <div className="text-left">
                 <p className="text-[#6315ff] font-bold">A Reputed Brand</p>
                 <h1 className="text-5xl font-extrabold leading-snug mt-4 text-[#243e63]">Why<span className="australia text-[#6315ff] leading-snug px-4 rounded-t-3xl mt-14">Choose Us ?</span></h1>

@@ -5,7 +5,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className='bg-[#edf2f6] inter'>
+        <div className='bg-[#edf2f6] inter hidden'>
             <div className="container w-[1300px] mx-auto ">
                 <div className='flex justify-between py-24'>
                     <div className='inter'>

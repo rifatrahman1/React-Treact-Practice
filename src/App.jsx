@@ -21,7 +21,7 @@ function App() {
     };
   return (
     <div>
-      <div className="container w-[1300px] mx-auto">
+      <div className="container lg:w-[1300px] mx-auto">
         <Navbar></Navbar>
         <Banner></Banner>
         <Main></Main>

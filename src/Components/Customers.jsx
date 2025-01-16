@@ -4,7 +4,7 @@ import customer3 from '../../assets/customer3.avif'
 
 const Customers = () => {
     return (
-        <div className='mt-44'>
+        <div className='mt-44 hidden'>
             <h1 className="text-5xl text-center font-extrabold leading-snug mt-4 text-[#243e63]">Customers<span className="australia text-[#6315ff] leading-snug px-4 rounded-t-3xl mt-14">Love Us ?</span></h1>
             <div className='flex justify-evenly mt-14'>
                 <div className='text-center'>

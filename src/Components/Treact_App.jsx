@@ -4,7 +4,7 @@ import playstore from '../../assets/playstore.png'
 
 const Treact_App = () => {
     return (
-        <div className="bg-[#1a202c] mt-24">
+        <div className="bg-[#1a202c] mt-24 hidden">
             <div className="flex items-center justify-center gap-24 py-24">
                 <div>
                     <h3 className='inter text-[#deb170] font-bold'>Download App</h3>
