@@ -13,7 +13,7 @@ const Recipes = () => {
         })
     }, [])
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mt-20">
+        <div className="lg:px-0 px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:mt-20 mt-12">
             {
                 recipes.map ((recipe) => <Starters key={recipe.id} recipe={recipe}></Starters>)
             }

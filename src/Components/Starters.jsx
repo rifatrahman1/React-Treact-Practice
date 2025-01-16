@@ -6,7 +6,7 @@ const Starters = ({ recipe }) => {
     return (
         <div>
             <div className='relative'>
-                <img className='w-[300px] h-[300px] rounded-t-md ' src={image} alt="" />
+                <img className='lg:w-[300px] lg:h-[300px] w-[500px] h-[500px] rounded-t-md ' src={image} alt="" />
                 <div className="flex items-center gap-1 absolute bottom-4 left-4 bg-white px-5 py-2 rounded-full">
                     <IoMdStar  className='text-yellow-400 text-xl'/>
                     <p className='font-bold'>{rating}</p>

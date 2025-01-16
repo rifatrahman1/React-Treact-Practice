@@ -3,7 +3,7 @@ import banner from '../../assets/order.avif'
 
 const Banner = () => {
     return (
-        <div className="lg:px-0 px-4 lg:flex items-center justify-between mt-24 space-y-12 lg:space-y-0">
+        <div className="lg:px-0 px-4 flex lg:flex-row flex-col items-center justify-between mt-24 space-y-12  lg:space-y-0">
             <div className="text-center lg:text-left">
                 <h1 className="text-5xl font-extrabold text-[#243e63]">Delicious & Affordable <br />
                 <span className="australia text-[#6315ff] leading-snug px-4 rounded-t-3xl mt-14"> Meals Near You.</span></h1>

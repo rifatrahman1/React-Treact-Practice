@@ -5,9 +5,9 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className='bg-[#edf2f6] inter hidden'>
-            <div className="container w-[1300px] mx-auto ">
-                <div className='flex justify-between py-24'>
+        <div className='bg-[#edf2f6] inter lg:px-0 px-4'>
+            <div className="container lg:w-[1300px] mx-auto ">
+                <div className='grid lg:grid-cols-5 grid-cols-2 lg:justify-between justify-center lg:space-y-0 space-y-12 py-24'>
                     <div className='inter'>
                         <p className='text-[#4c565d] font-bold text-xl'>Main</p>
                         <div className='text-[#726e6d] mt-5 space-y-2 font-medium'>
@@ -56,13 +56,13 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='border-b-2 border-[#ccd5de] '></div>
-                <div className='flex items-center justify-between py-24'>
+                <div className='flex items-center justify-between lg:py-24 py-12'>
                     <div className='flex items-center gap-3'>
                         <img className='w-8' src={logo} alt="" />
                         <h3 className='text-xl font-bold'>Treact Inc.</h3>
                     </div>
                     <p className='text-[#726e6d] font-semibold'>© 2018 Treact Inc. All Rights Reserved.</p>
-                    <div className='flex items-center gap-4'>
+                    <div className='lg:flex hidden items-center gap-4'>
                         <div className='bg-black px-3 py-3 rounded-full'>
                             <SiFacebook className='text-xl text-white ' />
                         </div>
@@ -72,10 +72,19 @@ const Footer = () => {
                         <div className='bg-black px-3 py-3 rounded-full'>
                             <FaYoutube className='text-xl text-white ' />
                         </div>
-                        {/* <FaTwitter /> */}
-                        {/* <FaYoutube /> */}
                     </div>
                 </div>
+                <div className='lg:hidden flex items-center justify-center gap-4 lg:pb-0 pb-12'>
+                        <div className='bg-black px-3 py-3 rounded-full'>
+                            <SiFacebook className='text-xl text-white ' />
+                        </div>
+                        <div className='bg-black px-3 py-3 rounded-full'>
+                            <FaTwitter className='text-xl text-white ' />
+                        </div>
+                        <div className='bg-black px-3 py-3 rounded-full'>
+                            <FaYoutube className='text-xl text-white ' />
+                        </div>
+                    </div>
             </div>
         </div>
     );

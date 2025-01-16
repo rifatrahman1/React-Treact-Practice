@@ -4,9 +4,9 @@ import customer3 from '../../assets/customer3.avif'
 
 const Customers = () => {
     return (
-        <div className='mt-44 hidden'>
+        <div className='lg:mt-44 mt-24 lg:px-0 px-4'>
             <h1 className="text-5xl text-center font-extrabold leading-snug mt-4 text-[#243e63]">Customers<span className="australia text-[#6315ff] leading-snug px-4 rounded-t-3xl mt-14">Love Us ?</span></h1>
-            <div className='flex justify-evenly mt-14'>
+            <div className='flex lg:flex-row flex-col justify-evenly mt-14 lg:space-y-0 space-y-12'>
                 <div className='text-center'>
                     <div className='flex justify-center'><img className='w-[80px] rounded-full' src={customer1} alt="" /></div>
                     <p className='text-[#8d8988] inter font-medium mt-7 leading-loose'>"Duis aute irure dolor in <br /> reprehenderit in voluptate velit esse <br /> cillum dolore eu fugiat nulla pariatur. <br /> Excepteur sint occaecat cupidatat <br /> non proident, sunt in culpa qui <br /> officia."</p>
